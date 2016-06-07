@@ -3,7 +3,6 @@
 /test/browsertest/js
 /benchmark/js
 /benchmark/fixtures
-/examples/*/js
 /coverage
 .DS_Store
 *.log
